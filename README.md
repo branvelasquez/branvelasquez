@@ -1,5 +1,12 @@
 ## Hi there my name is Brandon👋
 
+<h1> Me gusta mucho aprender a programar</h1>
+<h2> Algun dia creare mi primer videojuego y lo hare famoso</h2>
+
+
+
+
+
 <!--
 **branvelasquez/branvelasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

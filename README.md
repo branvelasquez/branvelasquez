@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brandon and I'm a Alumno de la alma mater, from Usulutan</p>
+<p align="left">My name is Brandon y soy actaul alumno de la alma mater de San Miguel</p>
 
 ###
 

@@ -1,39 +1,29 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">¡Hola! 👋 Soy Brandon Medrano</h1>
 
-###
+<p align="center">
+🎓 Estudiante de Ingeniería en Sistemas Informáticos en la UES  
+💻 Apasionado por el desarrollo web y la programación  
+🌟 Explorando nuevas tecnologías para crecer como profesional  
+</p>
 
-<p align="left">My name is Brandon y soy actaul alumno de la alma mater de San Miguel</p>
+---
 
-###
+<h2 align="left">Sobre mí</h2>
 
-<h2 align="left">About me</h2>
+<p align="left">
+✨ Creando soluciones (y bugs ocasionales) con Python, HTML y CSS  
+📚 Actualmente aprendiendo lógica matemática y conjuntos para fortalecer mis bases en programación  
+🎯 Objetivo: Convertirme en el mejor en mi profesión y contribuir a proyectos innovadores  
+🎲 Dato curioso: Me lancé a esta carrera sin saber mucho, pero cada día aprendo algo nuevo  
+</p>
 
-###
+---
 
-<p align="left">✨ Creating bugs since Python, HTML Y CSS<br>📚 I'm currently learning Logica y conjuntos<br>🎯 Goals: Ser el mejor en mi profesion<br>🎲 Fun fact: Me meti a esta carrera sin saber nada jaja y aca estoy</p>
+<h2 align="left">Codifico con</h2>
 
-###
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###

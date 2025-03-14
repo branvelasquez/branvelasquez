@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brandon and I'm a ..., from ....</p>
+<p align="left">My name is Brandon and I'm a Alumno de la alma mater, from Usulutan</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since Python, HTML Y CSS<br>📚 I'm currently learning Logica y conjuntos<br>🎯 Goals: Ser el mejor en mi profesion<br>🎲 Fun fact: Me meti a esta carrera sin saber nada jaja y aca estoy</p>
 
 ###
 
